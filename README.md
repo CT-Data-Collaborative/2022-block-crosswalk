@@ -2,7 +2,7 @@
 
 #### Census block crosswalk to census tract, town, county, county equivalent, ZIP code, and PUMA (2010)
 
-The 2022blockcrosswalk.csv file contains a crosswalk between 49,861 Connecticut census blocks and tracts, towns, counties, country equivalents, ZIP codes, and 2010 PUMAS in CT. 
+The 2022blockcrosswalk.csv file contains a crosswalk between 49,861 Connecticut census blocks and tracts, towns, counties, country equivalents, ZIP codes, and 2020 PUMAS in CT. 
 
 #### Note about FIPS Codes and County Equivalents
 In 2022, the Census Bureau adopted county equivalents- Connecticut's nine planning regions- as new county-level geographies for Connecticut for statistical purposes, replacing Connecticut's eight counties in Census Bureau data products. The county equivalents have new FIPS codes.
