@@ -1,6 +1,6 @@
 # 2022 Census Block Crosswalk
 
-#### Census block crosswalk to census tract, town, county, county equivalent, ZIP code, and PUMA (2020)
+#### Census block crosswalk to census tract, town, county, county equivalent, 2010 ZIP code, and PUMA (2020)
 
 The 2022blockcrosswalk.csv file contains a crosswalk between 49,861 Connecticut census blocks and tracts, towns, counties, country equivalents, ZIP codes, and 2020 PUMAS in CT. 
 
