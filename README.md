@@ -1,6 +1,6 @@
 # 2022 Census Block Crosswalk
 
-#### Census block crosswalk to census tract, town, county, county equivalent, 2010 ZIP code, and PUMA (2020)
+#### Census block crosswalk to census tract, town, county, county equivalent, ZCTA/ZIP code, and PUMA (2020)
 
 The 2022blockcrosswalk.csv file contains a crosswalk between 49,861 Connecticut census blocks and tracts, towns, counties, country equivalents, ZIP codes, and 2020 PUMAS in CT. 
 
@@ -24,4 +24,4 @@ Note that blocks that contained only water and were not within municipal boundar
 - 2020 TIGER/Line Shapefiles: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html
 - 2022 TIGER/Line Shapefiles: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2022.html
 - County subdivisions (which are towns for Connecticut) on TIGER: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2019&layergroup=County+Subdivisions
-- Connecticut zipcode boundaries: https://data.ct.gov/Government/Zip-Code-Tabulation-Area-Boundaries/n7kw-xx5z
+- Connecticut zipcode boundaries: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=ZIP+Code+Tabulation+Areas
